@@ -61,10 +61,10 @@ Cross-validation confirms consistent performance
 ## Output
 
 Decision Tree Visualization  
-![Decision Tree](tree_output.jpg)
+![Decision Tree](Decision-Trees-and-Random-Forests/tree_output.jpg)
 
 Feature Importance  
-![Feature Importance](feature_importance.jpg)
+![Feature Importance](Decision-Trees-and-Random-Forests/feature_importance.jpg)
 
 ---
 
